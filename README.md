@@ -1,3 +1,7 @@
+<p align="center">
+<img width="1855" height="961" alt="SCC" src="https://github.com/user-attachments/assets/1d2e488b-7657-4e89-859b-8e41ad4f6368" />
+</p>
+
 # 🚀 SCC Project
 
 > Smart City Copilot project for IIT Ropar - Advanced urban management and monitoring system.
